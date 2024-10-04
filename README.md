@@ -73,3 +73,6 @@ This project provides a detailed analysis of the electric vehicle market, identi
 [Explore the Tableau Dashboard](https://public.tableau.com/app/profile/siva.suriyan.m/viz/Book1_17280461504660/Dashboard1?publish=yes)
 
 ---
+
+## Visual Representation:
+![Dashboard 1](https://github.com/user-attachments/assets/7d7e6ce3-88d7-4adc-8274-438c596d91f0)
